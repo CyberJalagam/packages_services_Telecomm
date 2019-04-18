@@ -31,6 +31,8 @@ import android.os.RemoteException;
 import android.telecom.Connection;
 import android.telecom.Log;
 import android.telecom.PhoneAccount;
+import android.telecom.PhoneAccountHandle;
+import android.telecom.TelecomManager;
 import android.telecom.VideoProfile;
 import android.telephony.PhoneNumberUtils;
 import android.telephony.TelephonyManager;
